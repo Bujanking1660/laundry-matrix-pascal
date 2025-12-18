@@ -2,10 +2,6 @@
 
 Aplikasi manajemen operasional laundry sederhana yang dibangun menggunakan bahasa pemrograman **Pascal**. Proyek ini menerapkan konsep **Algoritma Matriks** untuk mengelola data transaksi dan pemetaan status layanan secara efisien.
 
-## 👤 Identitas Pengembang
-- **Nama** : Rizkya Gusnaldy Kalia
-- **NIM** : 10124190
-
 ## 🧠 Konsep Algoritma
 Berbeda dengan sistem laundry biasa, program ini menggunakan struktur data **Matriks (Array 2 Dimensi)** untuk:
 - **Pemetaan Data**: Menyimpan informasi pelanggan, berat cucian, dan status dalam baris dan kolom matriks.
@@ -53,7 +49,3 @@ var
 
 © 2025 Rizkya Gusnaldy Kalia
 
-
-**Apakah kamu ingin saya buatkan satu "Bio Profile" atau "About Me" yang merangkum semua keahlian ini agar orang yang mengunjungi GitHub-mu langsung kagum?**
-
-```
